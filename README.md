@@ -82,4 +82,4 @@ mvn archetype:generate
 ```
 
 ##种子项目的培育和收获
-种子项目的培育和收获除了种子内置基因以外还和具体的业务项目相关，故此过程在业务项目的[README.md](https://github.com/zhoujianhui/cordova-ionic-maven-archetype/test-cordova-ionic-maven-archetype)介绍。
+种子项目的培育和收获除了种子内置基因以外还和具体的业务项目相关，故此过程在业务项目的[README.md](test-cordova-ionic-maven-archetype/README.md)介绍。
