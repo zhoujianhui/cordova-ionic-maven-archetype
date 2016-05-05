@@ -66,7 +66,7 @@ mvn archetype:generate
 
 其中[]表示可选，默认值为：
 
-- appId=groupId.artifactId.replace("-","")，不能包含"-"
+- appId=groupId.artifactId.replace("-","")，appId不能包含"-"
 - appName=artifactId
 
 **PS:**
